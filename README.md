@@ -16,4 +16,39 @@
     <img src="https://img.shields.io/badge/Linkedin-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
+---
 
+## 🧬 About Me
+
+> Dreaming • Learning • Shipping — turning ideas into durable systems.
+
+- 🎓 **BCA** — Centurion University  
+- 🎓 **MCA (pursuing)** — ITER, *Siksha 'O' Anusandhan*  
+- 🎯 **Focus:** Full-Stack (MERN/Next.js) • DevOps (Docker, CI/CD) • Cloud (AWS)  
+- 🚀 **Mission:** Build a developer community & transform Western Odisha into a tech hub.
+
+---
+
+## 🧠 Skills Matrix
+
+### 👨‍💻 Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+</p>
+
+### ⚛️ Frameworks & Libraries
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs" />
+</p>
+
+### 🗄️ Database & Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,githubactions" />
+</p>
+
+---
