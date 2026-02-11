@@ -60,12 +60,17 @@
 </p>-->
 ## 🧠 Skills Matrix
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,tailwind,materialui,nodejs,express,mongodb,aws,docker,git,github,postman" />
-</p>
+### 💻 Core Technologies
 
 <p align="center">
-  <b>Languages</b> • <b>Frontend</b> • <b>Backend</b> • <b>Database</b> • <b>DevOps & Tools</b>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,aws,docker" />
 </p>
+
+### 🛠 Supporting Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,git,github,postman,tailwind,materialui" />
+</p>
+
 ---
 
