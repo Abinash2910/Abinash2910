@@ -50,7 +50,7 @@
 <!-- ================= HEADER BANNER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Abinash%20Behera&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:7F00FF&height=220&section=header&text=Abinash%20Behera&fontSize=60&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20|%20MERN%20|%20Next.js%20Developer&descAlignY=60&descAlign=50" />
 </p>
 
 <!-- ================= ANIMATED SLOGAN ================= -->
