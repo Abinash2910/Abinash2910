@@ -28,7 +28,7 @@
 - ☁️ Deployed production-ready applications on AWS  
 - 🚀 Built real-world projects like **GrowTrade**, **Zoomy**, and **SigmaGPT**
 - 🎯 Focused on writing clean, maintainable, and scalable code  
-
+---
 ---
 
 ## 🧠 Skills Matrix
