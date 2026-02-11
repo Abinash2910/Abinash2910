@@ -33,7 +33,7 @@
 
 ---
 
-<h2 align="center">🧠 Skills Matrix</h2>
+## 🧠 Skills Matrix
 
 <h3 align="center">💻 Languages</h3>
 <p align="center">
