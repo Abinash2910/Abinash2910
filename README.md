@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Abinash2910&label=VISITORS&color=38BDF8&style=flat" />
-  <img src="https://img.shields.io/github/followers/Abinash2910?label=FOLLOWERS&style=flat&color=8B5CF6" />
+  <img src="https://img.shields.io/github/followers/Abinash2910?label=FOLLOWERS&style=flat&color=5c15d6" />
 
   <!--<a href="mailto:beheraabinash634@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=flat&logo=gmail&logoColor=white" />
