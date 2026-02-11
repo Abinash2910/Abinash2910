@@ -16,6 +16,7 @@
     <img src="https://img.shields.io/badge/Linkedin-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
+---
 ## 🧬 About Me
 
 > Designing and developing secure, high-performance full-stack web applications.
@@ -56,7 +57,5 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
 </p>
-
-
 ---
 
