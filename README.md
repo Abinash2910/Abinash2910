@@ -61,8 +61,11 @@
 ## 🧠 Skills Matrix
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,nginx,vercel,githubactions" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,react,nextjs,tailwind,materialui,nodejs,express,mongodb,aws,docker,git,github,postman" />
 </p>
 
+<p align="center">
+  <b>Languages</b> • <b>Frontend</b> • <b>Backend</b> • <b>Database</b> • <b>DevOps & Tools</b>
+</p>
 ---
 
