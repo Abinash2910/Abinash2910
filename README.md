@@ -36,28 +36,42 @@
 ## 🧠 Skills Matrix
 
 ### 💻 Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3" />
 </p>
 
 ### ⚛️ Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
+<p>
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Material_UI-000000?style=for-the-badge&logo=mui" />
 </p>
 
 ### 🛠 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+<p>
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express" />
 </p>
 
 ### 🗄 Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
 </p>
 
 ### ☁️ DevOps & Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
+<p>
+  <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
+  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman" />
 </p>
+
 ---
+
 
