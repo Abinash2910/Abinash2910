@@ -17,6 +17,7 @@
   </a>
 </p>
 
+---
 ## 🧬 About Me
 
 > Designing and developing secure, high-performance full-stack web applications.
