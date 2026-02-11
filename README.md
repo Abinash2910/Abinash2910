@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abinash Behera</h1>
+<h3 align="center">Full Stack Web Developer | MERN Stack | Next.js</h3>
 
-<!--
-**Abinash2910/Abinash2910** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 🔭 I’m currently working on MERN Stack Projects
+- 🌱 Learning Advanced Backend & System Design
+- 💬 Ask me about React, Node.js, MongoDB
+- 📫 Reach me at: your@email.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,nextjs,js,ts,aws" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+![Abinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+---
+
+### 🔥 Streak Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+
+---
+
+### 📈 Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
