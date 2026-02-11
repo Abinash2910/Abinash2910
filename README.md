@@ -20,35 +20,44 @@
 
 ## 🧬 About Me
 
-> Dreaming • Learning • Shipping — turning ideas into durable systems.
+> Building scalable web applications with performance, security, and real-world impact.
 
-- 🎓 **BCA** — Centurion University  
-- 🎓 **MCA (pursuing)** — ITER, *Siksha 'O' Anusandhan*  
-- 🎯 **Focus:** Full-Stack (MERN/Next.js) • DevOps (Docker, CI/CD) • Cloud (AWS)  
-- 🚀 **Mission:** Build a developer community & transform Western Odisha into a tech hub.
+- 🎓 **B.Sc. ITM (Information Technology & Management)** — Fakir Mohan University  
+- 🎓 **MCA (Pursuing)** — Siksha 'O' Anusandhan University  
+- 💻 Full Stack Developer specializing in **MERN Stack & Next.js**
+- 🔐 Experienced in Authentication, JWT, REST APIs & Backend Architecture  
+- ☁️ Deployed production-ready applications on AWS  
+- 🚀 Built real-world projects like **GrowTrade**, **Zoomy**, and **SigmaGPT**
+- 🎯 Focused on writing clean, maintainable, and scalable code  
 
 ---
 
 ## 🧠 Skills Matrix
 
-### 👨‍💻 Languages
+### 💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css" />
 </p>
 
-### ⚛️ Frameworks & Libraries
+### ⚛️ Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,express,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,materialui" />
 </p>
 
-### 🗄️ Database & Backend
+### 🛠 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-### ☁️ DevOps & Cloud
+### 🗄 Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,aws,nginx,vercel,githubactions" />
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### ☁️ DevOps & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
 </p>
 
 ---
+
