@@ -73,7 +73,26 @@
 
 ---
 
+<h2 align="center">🧪 Live Telemetry (Auto Widgets)</h2>
 
+<br/>
 
+<h3 align="center">📈 Contribution Graph</h3>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinash2910&theme=react-dark&bg_color=0D1117&hide_border=true&color=38BDF8&line=8B5CF6&point=FFFFFF" />
+</p>
 
+<br/>
+
+<h3 align="center">📊 Contribution Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abinash2910&theme=react&hide_border=true&background=0D1117&ring=38BDF8&fire=8B5CF6&currStreakLabel=38BDF8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abinash2910&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&icon_color=38BDF8&title_color=38BDF8" />
+</p>
+
+---
