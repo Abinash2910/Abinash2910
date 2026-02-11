@@ -20,12 +20,12 @@
 
 ## 🧬 About Me
 
-> Building scalable web applications with performance, security, and real-world impact.
+> Designing and developing secure, high-performance full-stack web applications.
 
 - 🎓 **B.Sc. ITM (Information Technology & Management)** — Fakir Mohan University  
 - 🎓 **MCA (Pursuing)** — Siksha 'O' Anusandhan University  
 - 💻 Full Stack Developer specializing in **MERN Stack & Next.js**
-- 🔐 Experienced in Authentication, JWT, REST APIs & Backend Architecture  
+- 🔐 Experienced in backend development, authentication, and REST APIs. 
 - ☁️ Deployed production-ready applications on AWS  
 - 🚀 Built real-world projects like **GrowTrade**, **Zoomy**, and **SigmaGPT**
 - 🎯 Focused on writing clean, maintainable, and scalable code  
