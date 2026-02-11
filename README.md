@@ -17,7 +17,6 @@
   <img src="https://img.shields.io/badge/Contact-Email-white?style=flat" />
   <img src="https://img.icons8.com/color/48/gmail-new.png" width="18" />
 </a>
->
   <a href="https://www.linkedin.com/in/abinashbehera01/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
