@@ -7,12 +7,13 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abinashbehera01&label=VISITORS&color=38BDF8&style=flat" />
-  <img src="https://img.shields.io/github/followers/abinashbehera01?label=FOLLOWERS&color=38BDF8&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Abinash2910&label=VISITORS&color=38BDF8&style=flat" />
+  <img src="https://img.shields.io/github/followers/Abinash2910?label=FOLLOWERS&style=flat&color=38BDF8" />
+
   <a href="mailto:beheraabinash634@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-38BDF8?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/abinash2910">
+  <a href="https://www.linkedin.com/in/abinashbehera01/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-38BDF8?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
