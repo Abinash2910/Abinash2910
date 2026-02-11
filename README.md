@@ -36,7 +36,7 @@
 ## 🧠 Skills Matrix
 
 ### 💻 Languages
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript" />
   <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java" />
@@ -45,7 +45,7 @@
 </p>
 
 ### ⚛️ Frontend
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js" />
   <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss" />
@@ -53,18 +53,18 @@
 </p>
 
 ### 🛠 Backend
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express" />
 </p>
 
 ### 🗄 Database
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb" />
 </p>
 
 ### ☁️ DevOps & Tools
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws" />
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker" />
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git" />
@@ -73,5 +73,6 @@
 </p>
 
 ---
+
 
 
