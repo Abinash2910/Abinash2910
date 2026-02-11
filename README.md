@@ -16,6 +16,8 @@
     <img src="https://img.shields.io/badge/Linkedin-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 </p>
+---
+
 
 ## 🧬 About Me
 
@@ -27,7 +29,8 @@
 - 🔐 Experienced in backend development, authentication, REST APIs. 
 - ☁️ Deployed production-ready applications on AWS  
 - 🚀 Built real-world projects like **GrowTrade**, **Zoomy**, and **SigmaGPT**
-- 🎯 Focused on writing clean, maintainable, and scalable code  
+- 🎯 Focused on writing clean, maintainable, and scalable code
+
 ---
 
 ## 🧠 Skills Matrix
