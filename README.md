@@ -155,7 +155,7 @@
 
 ---
 
-<h2 align="center">🚀 Full Stack Developer</h2>
+<!-- <h2 align="center">🚀 Full Stack Developer</h2>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=0e75b6&style=flat" />
@@ -166,5 +166,5 @@
   <a href="https://linkedin.com/in/YOUR_LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
   </a>
-</p>
+</p> -->
 
