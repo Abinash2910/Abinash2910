@@ -32,7 +32,7 @@
 
 ---
 
-## 🧠 Skills Matrix
+<!--## 🧠 Skills Matrix
 
 ### 💻 Languages
 <p align="center">
@@ -57,6 +57,11 @@
 ### ☁️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
+</p>-->
+## 🧠 Skills Matrix
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,html,css,react,nextjs,nodejs,express,mongodb,postgres,docker,aws,nginx,vercel,githubactions" />
 </p>
 
 ---
