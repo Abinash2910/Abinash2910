@@ -32,7 +32,7 @@
 
 ---
 
-<!--## 🧠 Skills Matrix
+## 🧠 Skills Matrix
 
 ### 💻 Languages
 <p align="center">
@@ -57,20 +57,8 @@
 ### ☁️ DevOps & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman" />
-</p>-->
-## 🧠 Skills Matrix
-
-### 💻 Core Technologies
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,aws,docker" />
 </p>
 
-### 🛠 Supporting Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,html,css,git,github,postman,tailwind,materialui" />
-</p>
 
 ---
 
