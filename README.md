@@ -73,7 +73,7 @@
 
 ---
 
-<h2 align="center">🧪 Live Telemetry (Auto Widgets)</h2>
+## 🧪 Live Telemetry (Auto Widgets)
 
 <br/>
 
